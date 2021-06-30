@@ -14,6 +14,7 @@ Read the following steps properly for proper submission of your project. Missing
 ## Contents of the folder
 + All project directories.
 + All the projects folders with their individual names, should be contain inside (Yours name Folder)
++ Attach a screenshot of your app in the respective readme file of the project
 
 ### Step 3
 Create a Pull Request only after you have completed more the one project,
