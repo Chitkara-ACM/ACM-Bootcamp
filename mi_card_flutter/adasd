@@ -1,0 +1,39 @@
+[33mcommit c4a4537216c98e58b0df31e9f904fd299287e7c2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: TheMuellenator <TheMuellenator@users.noreply.github.com>
+Date:   Mon Jan 20 11:26:04 2020 +0000
+
+    updating git ignore
+
+[33mcommit 1a6c710311057c68ba93c683ef363cc859c0629d[m
+Author: TheMuellenator <TheMuellenator@users.noreply.github.com>
+Date:   Fri Jan 17 12:09:16 2020 +0000
+
+    Updating Android SDK version to 29
+    Removing android.support dependencies
+    Updating gradle wrapper to 5.4.1-all.zip
+    Updating gradle build to 3.5.3
+    Adding AndroidX gradle properties
+
+[33mcommit 83db504077a79907d5d8dc5c44ec7576bdd034b9[m
+Author: Angela Yu <8798027+angelabauer@users.noreply.github.com>
+Date:   Tue Mar 5 11:06:13 2019 +0000
+
+    Update README.md
+
+[33mcommit 4f0f353408d5e056146b2b14e7eeb750965dbd36[m
+Author: Angela Yu <8798027+angelabauer@users.noreply.github.com>
+Date:   Tue Mar 5 11:06:00 2019 +0000
+
+    Update README.md
+
+[33mcommit b06b8ded7536d200abe441acf98f0c0120432fa9[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Fri Mar 1 17:53:35 2019 +0000
+
+    Add app icons
+
+[33mcommit 9210b64a1cf3374b98360c5dba07acb9f92aa533[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Fri Mar 1 17:19:30 2019 +0000
+
+    initial
